@@ -6,7 +6,7 @@ labels: "데일리 스크럼 ☀️"
 assignees: ""
 ---
 
-# Daily Scrum - YYYY.MM.DD (요일)
+# Daily Scrum -2026.08.26 (월)
 
 > 오늘의 목표와 진행 상황을 공유하고, 작업을 막고 있는 문제를 빠르게 해결합니다.
 
@@ -21,38 +21,7 @@ assignees: ""
 
 ---
 
-## 2. Progress & Done (어제 한 일)
-
-> 전날 진행하거나 완료한 작업과 결과를 작성합니다.
-
-| 담당자 | 진행한 작업 | 결과 및 상태 | Issue/PR 링크 |
-|---|---|---|---|
-| @username |  | 완료 |  |
-| @username |  | 진행 중 |  |
-| @username |  |  |  |
-| @username |  |  |  |
-| @username |  |  |  |
-| @username |  |  |  |
-
----
-
-## 3. Will Do (오늘 할 일)
-
-> 오늘 진행할 작업과 완료 기준을 작성합니다.  
-> 작업명만 적지 말고, 오늘 어디까지 완료할 것인지 명확하게 작성합니다.
-
-| 담당자 | 작업 | 완료 기준 | 마감일 | Issue 링크 |
-|---|---|---|---|---|
-| @username |  |  | 오늘 |  |
-| @username |  |  | 오늘 |  |
-| @username |  |  | 오늘 |  |
-| @username |  |  | 오늘 |  |
-| @username |  |  | 오늘 |  |
-| @username |  |  | 오늘 |  |
-
----
-
-## 4. Decisions (결정 사항)
+## 2. Decisions (결정 사항)
 
 > 스크럼 중 확정한 정책이나 팀 공통 결정 사항을 기록합니다.
 
@@ -61,3 +30,16 @@ assignees: ""
 |  |  | 기획 / FE / BE / AI / Cloud | @username |
 
 ---
+
+## 3. Daily Scrum 템플릿
+## 어제 한 일
+
+-
+
+## 오늘 할 일
+
+-
+
+## 회고
+
+-
