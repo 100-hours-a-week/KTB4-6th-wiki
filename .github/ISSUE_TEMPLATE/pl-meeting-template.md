@@ -1,15 +1,15 @@
 ---
 name: PL Meeting
 about: 구현 결과와 기술 문제, PL 답변을 정리합니다.
-title: "1회차-YYYY-MM-DD-pl-meeting"
-labels: ""
+title: "1회차-2026-MM-DD-pl-meeting"
+labels: "PL 미팅 💻"
 assignees: ""
 ---
 
 ## 기본 정보
-- 팀명:
+- 팀명:회의는30분만
 - 미팅 일시:
-- 미팅 회차: (예: 3주차 2회차)
+- 미팅 회차: 주차 회차
 - 참여 인원:
 
 ---
