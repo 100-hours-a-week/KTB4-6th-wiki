@@ -6,7 +6,10 @@ labels: ''
 assignees: ''
 ---
 
-# YYYY-MM-DD 오류명
+# 2026-MM-DD 오류명
+
+## 📌 배경
+> 배경 작성
 
 ## 🐞 에러 내용
 -
